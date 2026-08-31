@@ -1,5 +1,4 @@
 <div align="center" style="background: url('images/VAPT') no-repeat center center; background-size: cover; padding: 30px;">
-  <img src="https://media.licdn.com/dms/image/v2/D4D35AQHHPDTJQK35PQ/profile-framedphoto-shrink_400_400/B4DZ.Knpo4H0AU-/0/1784737078626?e=1785394800&v=beta&t=svzcgDLQUNt9L8vBIWHEvXSpcCCjKPoc7jrLK-QG50I" width="180" alt="Kiran Kumar Immadisetty" />
   
   # 👋 Hey, I'm **Kiran Kumar Immadisetty**
   
