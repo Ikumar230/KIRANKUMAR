@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="100%" height="100%">
+  <!-- Background Image -->
+  <image href="VAPT.jpeg" width="1000" height="380" preserveAspectRatio="xMidYMid slice"/>
+  
+  <!-- Dark Overlay for Contrast -->
+  <rect width="1000" height="380" fill="rgba(0, 0, 0, 0.65)"/>
+  
+  <!-- Text and Profile Picture Overlay -->
+  <foreignObject x="0" y="0" width="1000" height="380">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #ffffff; text-align: center; padding: 20px;">
+      
+      <!-- Profile Picture -->
+      <img src="https://media.licdn.com/dms/image/v2/D4D35AQHHPDTJQK35PQ/profile-framedphoto-shrink_400_400/B4DZ.Knpo4H0AU-/0/1784737078626?e=1785394800&v=beta&t=svzcgDLQUNt9L8vBIWHEvXSpcCCjKPoc7jrLK-QG50I" width="110" height="110" style="border-radius: 50%; border: 3px solid #00BFFF; object-fit: cover; margin-bottom: 12px;" />
+      
+      <!-- Name -->
+      <h1 style="margin: 0 0 8px 0; font-size: 28px; font-weight: 700; color: #ffffff;">👋 Hey, I'm Kiran Kumar Immadisetty</h1>
+      
+      <!-- Title -->
+      <h3 style="margin: 0; font-size: 18px; font-weight: 600; color: #00BFFF;">🛡️ Cybersecurity Analyst | VAPT & Threat Intelligence</h3>
+      
+    </div>
+  </foreignObject>
+</svg>
