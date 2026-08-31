@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D35AQHHPDTJQK35PQ/profile-framedphoto-shrink_400_400/B4DZ.Knpo4H0AU-/0/1784737078626?e=1785394800&v=beta&t=svzcgDLQUNt9L8vBIWHEvXSpcCCjKPoc7jrLK-QG50I" width="180" alt="Immadisetty Kiran Kumar" />
-  
+ 
   # 👋 Hey, I'm **IMMEDISETTY KIRAN KUMAR**
 
   ### 🛡️ Cybersecurity Analyst | SOC Analyst | VAPT Practitioner
