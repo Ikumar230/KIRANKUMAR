@@ -12,17 +12,3 @@
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                        SYSTEM INFORMATION                            │
-├──────────────────────────────────────────────────────────────────────┤
-│ Name        : Immadisetty Kiran Kumar                                │
-│ Role        : Cybersecurity Analyst                                  │
-│ Location    : India 🇮🇳                                              │
-│ Education   : B.Tech in Cyber Security, Parul University    │
-│ Experience  : Junior SOC Intern | Cybersecurity Intern     │
-│ Recognition : Security Hall of Fame (4LeggedIT & Vanorika) │
-│ Interests   : SOC Operations • SIEM • VAPT • Web Security • Threat Intel│
-│ Languages   : Python • Bash • Linux • Windows             │
-│ Tools       : Splunk • Burp Suite • Wireshark • Nmap • OpenVAS       │
-└──────────────────────────────────────────────────────────────────────┘
