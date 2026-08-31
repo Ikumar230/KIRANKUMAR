@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="images/VAPT.jpeg" width="100%" alt="Cyber Security Background" />
+  <img src="images/VAPT.jpeg" width="800px" alt="Cyber Security Background" />
 </p>
+
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D35AQHHPDTJQK35PQ/profile-framedphoto-shrink_400_400/B4DZ.Knpo4H0AU-/0/1784737078626?e=1785394800&v=beta&t=svzcgDLQUNt9L8vBIWHEvXSpcCCjKPoc7jrLK-QG50I" width="180" alt="Kiran Kumar Immadisetty" />
+  
   # 👋 Hey, I'm **Kiran Kumar Immadisetty**
   
   ### 🛡️ Cybersecurity Analyst | VAPT & Threat Intelligence
