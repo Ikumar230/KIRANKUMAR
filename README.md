@@ -59,12 +59,12 @@
 
 ### 🏆 Security Hall of Fame & Acknowledgements
 
-* **ISO Mate Security Hall of Fame** (September 2026)
 * **4LeggedIT Security Hall of Fame** (August 2026)
 * **Vanorika Technologies Security Hall of Fame** (August 2026) – *SSRF vulnerability disclosure*
 * **Resistaa Security Acknowledgements** (August 2026) – *Account enumeration disclosure*
-* **Buku Warung Security Hall of Fames**
-* **Transloadit Security Hall of Fames**
+* **ISO Mate Security Hall of Fame** (September 2026)
+* **Buku Warung Security Hall of Fames** (September 2026) 
+* **Transloadit Security Hall of Fames** (September 2026)
 * **Tolvyn Security Hall of Fames** (September 2026) 
 
 ---
