@@ -63,7 +63,9 @@
 * **4LeggedIT Security Hall of Fame** (August 2026)
 * **Vanorika Technologies Security Hall of Fame** (August 2026) – *SSRF vulnerability disclosure*
 * **Resistaa Security Acknowledgements** (August 2026) – *Account enumeration disclosure*
-* **Buku Warung** & **Transloadit** Security Hall of Fames
+* **Buku Warung** Security Hall of Fames
+* **Transloadit** Security Hall of Fames
+  * 
 
 ---
 
