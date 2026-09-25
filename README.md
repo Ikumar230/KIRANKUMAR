@@ -27,12 +27,12 @@
 
 | Category | Core Tools & Technologies |
 | :--- | :--- |
-| **Security Operations** | SIEM, Splunk, Log Analysis, Security Monitoring, Incident Response, Alert Triage, Threat Intelligence |
-| **Vulnerability Assessment** | Nmap, Nuclei, Nessus, Subfinder, Amass, Assetfinder, httpx, Naabu, Shodan |
-| **Penetration Testing** | Metasploit, Burp Suite, ffuf, Gobuster, SQLmap, Wireshark, Kali Linux, CVSS Scoring |
-| **Web & API Security** | Postman, OWASP Top 10, SQLi, XSS, CSRF, SSRF, IDOR, Authentication Testing |
-| **Network & Malware** | TCP/IP, DNS, HTTP/HTTPS, Wireshark, Firewalls, VirusTotal, Hybrid Analysis |
-| **Languages & OS** | Linux, Kali Linux, Windows |
+| **Security Operations** | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white) ![SIEM](https://img.shields.io/badge/SIEM-1F2328?style=flat&logo=security&logoColor=white) ![Log Analysis](https://img.shields.io/badge/Log_Analysis-005571?style=flat) ![Incident Response](https://img.shields.io/badge/Incident_Response-C30000?style=flat) |
+| **Vulnerability Assessment** | ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-002B49?style=flat) ![Shodan](https://img.shields.io/badge/Shodan-D40000?style=flat&logo=shodan&logoColor=white) ![Nuclei](https://img.shields.io/badge/Nuclei-233446?style=flat) |
+| **Penetration Testing** | ![Metasploit](https://img.shields.io/badge/Metasploit-1C1C1C?style=flat) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) |
+| **Web & API Security** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-F90000?style=flat&logo=owasp&logoColor=white) ![API Security](https://img.shields.io/badge/API_Security-4B32C3?style=flat) |
+| **Network & Malware** | ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00487C?style=flat) ![DNS](https://img.shields.io/badge/DNS-2E4057?style=flat) ![VirusTotal](https://img.shields.io/badge/VirusTotal-3949AB?style=flat&logo=virustotal&logoColor=white) ![Firewalls](https://img.shields.io/badge/Firewalls-B71C1C?style=flat) |
+| **Languages & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) |
 
 ---
 
