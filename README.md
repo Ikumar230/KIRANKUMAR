@@ -59,13 +59,36 @@
 
 ### 🏆 Security Hall of Fame & Acknowledgements
 
-* **4LeggedIT Security Hall of Fame** (August 2026)
-* **Vanorika Technologies Security Hall of Fame** (August 2026) – *SSRF vulnerability disclosure*
-* **Resistaa Security Acknowledgements** (August 2026) – *Account enumeration disclosure*
-* **ISO Mate Security Hall of Fame** (September 2026)
-* **Buku Warung Security Hall of Fames** (September 2026) 
-* **Transloadit Security Hall of Fames** (September 2026)
-* **Tolvyn Security Hall of Fames** (September 2026) 
+<p>
+  <img src="https://img.shields.io/badge/🏆_4LeggedIT-Security_Hall_of_Fame-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📅_Aug_2026-Darkgreen?style=for-the-badge" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/🏆_Vanorika_Technologies-Hall_of_Fame-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔍_SSRF_Disclosure-Orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📅_Aug_2026-Darkgreen?style=for-the-badge" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/🏆_Resistaa-Security_Acknowledgements-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔍_Account_Enumeration-Orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📅_Aug_2026-Darkgreen?style=for-the-badge" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/🏆_ISO_Mate-Security_Hall_of_Fame-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📅_Sep_2026-Darkgreen?style=for-the-badge" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/🏆_Buku_Warung-Hall_of_Fame-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📅_Sep_2026-Darkgreen?style=for-the-badge" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/🏆_Transloadit-Hall_of_Fame-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📅_Sep_2026-Darkgreen?style=for-the-badge" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/🏆_Tolvyn-Hall_of_Fame-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📅_Sep_2026-Darkgreen?style=for-the-badge" />
+</p>
 
 ---
 
